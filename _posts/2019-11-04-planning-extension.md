@@ -2,7 +2,7 @@
 title: 'I am already planning an extension'
 date: 2019-11-04 # yyyy-mo-day
 image:
-  src: /refreshments.jpg
+  src: refreshments.jpg
   alt: Some Rocks
 categories: [Apocalypse]
 tags: [zombies, tabletop, miniatures, buildings, crafting]     # TAG names should always be lowercase

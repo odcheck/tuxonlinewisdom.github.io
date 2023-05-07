@@ -6,9 +6,9 @@ tags: [windows] # always in small letters
 external_links:
     target: _blank # target of external links
 external_url: '' # URL
-image:
-  src: # points to the image on cloudinary cdn starting with /
-  alt: # description
+#image:
+#  src: # points to the image on cloudinary cdn starting with /
+#  alt: # description
 ---
 **Solution** \
 Open the parent folder that has the subfolders containing images. \
