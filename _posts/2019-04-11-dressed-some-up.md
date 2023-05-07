@@ -1,9 +1,6 @@
 ---
 title: 'Dressed some up'
 date: 2019-04-11
-image:
-  src: image03.jpg.thumb.jpg
-  alt: Bloody Ass zombies
 categories: [Apocalypse]
 tags: [zombicide, tabletop, miniatures]
 ---
