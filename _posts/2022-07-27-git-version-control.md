@@ -6,9 +6,6 @@ tags: [it, git, scm, branch] # always in small letters
 external_links:
     target: _blank # target of external links
 external_url: '' # URL
-image:
-  path: # points to the image on cloudinary cdn starting with /
-  alt: # description 
 ---
 ## Create new feature-branch
 1) Ensure you are on master and you have the latest code
