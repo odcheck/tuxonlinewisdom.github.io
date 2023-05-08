@@ -8,5 +8,5 @@ With the help of Adobe Illustrator, Inkscape, Google Earth and a lot of my own p
 
 Those PDF Files can be downloaded here if required.
 
-[Yardage Book]({{ site.url }}/assets/img/Yardage_Book_with_rough.pdf) \
-[Greens]({{ site.url }}/assets/img/Yardage_Book_Greens.pdf)
+[Yardage Book]({{ site.url }}/assets/img/Yardage_Book_with_rough.pdf){:target="_blank"} \
+[Greens]({{ site.url }}/assets/img/Yardage_Book_Greens.pdf){:target="_blank"}
