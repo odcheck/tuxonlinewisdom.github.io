@@ -27,7 +27,8 @@ toc:
   js: https://cdn.jsdelivr.net/npm/tocbot@4.20.1/dist/tocbot.min.js
 
 fontawesome:
-  css: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css
+  css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+  #https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css
 
 search:
   js: https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js
