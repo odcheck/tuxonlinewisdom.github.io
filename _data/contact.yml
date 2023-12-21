@@ -33,3 +33,7 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 
+- type: threads
+  icon: 'fab threads'
+  url:  'https://www.threads.net/@_odcheck_'
+
