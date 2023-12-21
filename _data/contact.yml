@@ -34,6 +34,5 @@
 #   url:  ''                  # Fill with your stackoverflow homepage
 
 - type: threads
-  icon: 'fab threads'
+  icon: 'fab fa-threads'
   url:  'https://www.threads.net/@_odcheck_'
-
